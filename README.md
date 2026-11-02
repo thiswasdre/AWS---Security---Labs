@@ -14,5 +14,5 @@ Each lab covers what I did, what I learned, and how it maps to real-world securi
 | # | Lab | Focus |
 |----|-----|-------|
 | 01 | [flaws.cloud: Exposed S3 Bucket](./lab-01-flaws-cloud.md) | S3 misconfiguration, anonymous access |
-
+| 02 | [flaws.cloud: Authenticated Users Trap](./lab-02-flaws-cloud.md) | S3 ACLs, authenticated-user misconfiguration |
 *More labs added as I work through them.*
