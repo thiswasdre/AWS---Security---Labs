@@ -15,4 +15,5 @@ Each lab covers what I did, what I learned, and how it maps to real-world securi
 |----|-----|-------|
 | 01 | [flaws.cloud: Exposed S3 Bucket](./lab-01-flaws-cloud.md) | S3 misconfiguration, anonymous access |
 | 02 | [flaws.cloud: Authenticated Users Trap](./lab-02-flaws-cloud.md) | S3 ACLs, authenticated-user misconfiguration |
+| 03 | [flaws.cloud: Secrets in Git History](./lab-03-flaws-cloud.md) | Exposed .git, credential recovery, key pivoting |
 *More labs added as I work through them.*
