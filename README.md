@@ -17,4 +17,5 @@ Each lab covers what I did, what I learned, and how it maps to real-world securi
 | 02 | [flaws.cloud: Authenticated Users Trap](./lab-02-flaws-cloud.md) | S3 ACLs, authenticated-user misconfiguration |
 | 03 | [flaws.cloud: Secrets in Git History](./lab-03-flaws-cloud.md) | Exposed .git, credential recovery, key pivoting |
 | 04 | [flaws.cloud: Exposed EBS Snapshot](./lab-04-flaws-cloud.md) | EC2, EBS snapshots, data exfiltration |
+| 05 | [flaws.cloud: SSRF & EC2 Metadata](./lab-05-flaws-cloud.md) | SSRF, IMDS credential theft (Capital One) |
 *More labs added as I work through them.*
