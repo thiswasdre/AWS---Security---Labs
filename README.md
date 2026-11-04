@@ -18,4 +18,5 @@ Each lab covers what I did, what I learned, and how it maps to real-world securi
 | 03 | [flaws.cloud: Secrets in Git History](./lab-03-flaws-cloud.md) | Exposed .git, credential recovery, key pivoting |
 | 04 | [flaws.cloud: Exposed EBS Snapshot](./lab-04-flaws-cloud.md) | EC2, EBS snapshots, data exfiltration |
 | 05 | [flaws.cloud: SSRF & EC2 Metadata](./lab-05-flaws-cloud.md) | SSRF, IMDS credential theft (Capital One) |
+| 06 | [flaws.cloud: IAM, Lambda & API Gateway](./lab-06-flaws-cloud.md) | IAM enumeration, Lambda, API Gateway |
 *More labs added as I work through them.*
